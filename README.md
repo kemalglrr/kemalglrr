@@ -1,5 +1,5 @@
 # 💫 About Me:
-iOS Deeveloper.
+iOS Developer.
 
 
 ## 🌐 Socials:
