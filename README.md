@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning swift programming language.
+iOS Deeveloper.
 
 
 ## 🌐 Socials:
